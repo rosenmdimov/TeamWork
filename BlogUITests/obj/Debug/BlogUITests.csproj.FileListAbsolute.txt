@@ -58,3 +58,14 @@ D:\ROSSEN\QA\C#\TeamWork\BlogUITests\bin\Debug\WebDriver.Support.xml
 D:\ROSSEN\QA\C#\TeamWork\BlogUITests\obj\Debug\BlogUITests.csprojResolveAssemblyReference.cache
 D:\ROSSEN\QA\C#\TeamWork\BlogUITests\obj\Debug\BlogUITests.dll
 D:\ROSSEN\QA\C#\TeamWork\BlogUITests\obj\Debug\BlogUITests.pdb
+D:\ROSSEN\QA\C#\TeamWork\BlogUITests\bin\Debug\Gherkin.dll
+D:\ROSSEN\QA\C#\TeamWork\BlogUITests\bin\Debug\Newtonsoft.Json.dll
+D:\ROSSEN\QA\C#\TeamWork\BlogUITests\bin\Debug\System.Net.Http.Formatting.dll
+D:\ROSSEN\QA\C#\TeamWork\BlogUITests\bin\Debug\TechTalk.SpecFlow.dll
+D:\ROSSEN\QA\C#\TeamWork\BlogUITests\bin\Debug\TechTalk.SpecFlow.Generator.dll
+D:\ROSSEN\QA\C#\TeamWork\BlogUITests\bin\Debug\TechTalk.SpecFlow.Parser.dll
+D:\ROSSEN\QA\C#\TeamWork\BlogUITests\bin\Debug\TechTalk.SpecFlow.Utils.dll
+D:\ROSSEN\QA\C#\TeamWork\BlogUITests\bin\Debug\TestStack.Seleno.BrowserStack.Core.dll
+D:\ROSSEN\QA\C#\TeamWork\BlogUITests\bin\Debug\TestStack.Seleno.BrowserStack.SpecFlowPlugin.dll
+D:\ROSSEN\QA\C#\TeamWork\BlogUITests\bin\Debug\Newtonsoft.Json.xml
+D:\ROSSEN\QA\C#\TeamWork\BlogUITests\bin\Debug\System.Net.Http.Formatting.xml
