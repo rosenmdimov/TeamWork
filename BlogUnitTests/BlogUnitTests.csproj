@@ -7,7 +7,7 @@
     <ProjectGuid>{A928E34D-3B8F-408C-9E26-4AE103D77CBE}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>BlogUnitTests</RootNamespace>
+    <RootNamespace>BlogBuild.Tests</RootNamespace>
     <AssemblyName>BlogUnitTests</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
