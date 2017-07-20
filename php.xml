@@ -1,13 +1,13 @@
 <application>
   <component name="PhpInterpreters">
     <interpreters>
-      <interpreter home="C:\xampp\php\php.exe" id="51e869ee-3064-4f4a-a2e0-43005881f4a2" name="PHP" debugger_id="php.debugger.XDebug" debugger_extension="C:\xampp\php\ext\php_xdebug-2.5.4-7.1-vc14.dll" />
+      <interpreter home="C:\xampp\php\php.exe" id="51e869ee-3064-4f4a-a2e0-43005881f4a2" name="PHP" debugger_id="php.debugger.XDebug" debugger_extension="C:\xampp\php\ext\php_xdebug-2.5.5-7.1-vc14.dll" />
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="PHP">
-        <phpinfo binary_type="PHP" php_cgi="C:\xampp\php\php-cgi.exe" php_cli="C:\xampp\php\php.exe" path_separator=";" version="7.1.7" warning="Cannot load Xdebug - it was already loaded&#10;">
+        <phpinfo binary_type="PHP" php_cgi="C:\xampp\php\php-cgi.exe" php_cli="C:\xampp\php\php.exe" path_separator=";" version="7.1.7">
           <additional_php_ini />
           <configuration_file>C:\xampp\php\php.ini</configuration_file>
           <configuration_options>
@@ -269,7 +269,7 @@
             <configuration_option name="zlib.output_handler" value="" />
           </configuration_options>
           <debuggers>
-            <debugger_info debugger="xdebug" debugger_version="2.5.4">
+            <debugger_info debugger="xdebug" debugger_version="2.5.5">
               <debug_extensions />
             </debugger_info>
           </debuggers>
