@@ -1,12 +1,12 @@
 <application>
   <component name="PhpInterpreters">
     <interpreters>
-      <interpreter home="C:\xampp\php\php.exe" id="51e869ee-3064-4f4a-a2e0-43005881f4a2" name="PHP" debugger_id="php.debugger.XDebug" debugger_extension="C:\xampp\php\ext\php_xdebug-2.5.5-7.1-vc14.dll" />
+      <interpreter home="C:\xampp\php\php.exe" id="c4a1ea23-1ada-4e2e-b57d-6879adebf29a" name="PHP 7.1" debugger_id="php.debugger.XDebug" debugger_extension="C:\xampp\php\ext\php_xdebug-2.5.5-7.1-vc14.dll" />
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
-      <interpreter name="PHP">
+      <interpreter name="PHP 7.1">
         <phpinfo binary_type="PHP" php_cgi="C:\xampp\php\php-cgi.exe" php_cli="C:\xampp\php\php.exe" path_separator=";" version="7.1.7">
           <additional_php_ini />
           <configuration_file>C:\xampp\php\php.ini</configuration_file>
@@ -222,7 +222,7 @@
             <configuration_option name="xdebug.force_display_errors" value="0" />
             <configuration_option name="xdebug.force_error_reporting" value="0" />
             <configuration_option name="xdebug.halt_level" value="0" />
-            <configuration_option name="xdebug.idekey" value="" />
+            <configuration_option name="xdebug.idekey" value="XDEBUG_PHPSTORM" />
             <configuration_option name="xdebug.max_nesting_level" value="256" />
             <configuration_option name="xdebug.max_stack_frames" value="-1" />
             <configuration_option name="xdebug.overload_var_dump" value="2" />
@@ -239,10 +239,10 @@
             <configuration_option name="xdebug.remote_cookie_expire_time" value="3600" />
             <configuration_option name="xdebug.remote_enable" value="0" />
             <configuration_option name="xdebug.remote_handler" value="dbgp" />
-            <configuration_option name="xdebug.remote_host" value="localhost" />
-            <configuration_option name="xdebug.remote_log" value="" />
+            <configuration_option name="xdebug.remote_host" value="192.168.3.1" />
+            <configuration_option name="xdebug.remote_log" value="/var/log/xdebug.log" />
             <configuration_option name="xdebug.remote_mode" value="req" />
-            <configuration_option name="xdebug.remote_port" value="9000" />
+            <configuration_option name="xdebug.remote_port" value="9001" />
             <configuration_option name="xdebug.scream" value="0" />
             <configuration_option name="xdebug.show_error_trace" value="0" />
             <configuration_option name="xdebug.show_exception_trace" value="0" />
