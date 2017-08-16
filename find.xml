@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'blog'" />
-    <option name="defaultScopeName" value="Project 'blog'" />
-    <option name="SEARCH_SCOPE" value="Project 'blog'" />
+    <option name="customScope" value="Project 'PHP Skeleton'" />
+    <option name="defaultScopeName" value="Project 'PHP Skeleton'" />
+    <option name="SEARCH_SCOPE" value="Project 'PHP Skeleton'" />
   </component>
 </application>
