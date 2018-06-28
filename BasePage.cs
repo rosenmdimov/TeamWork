@@ -6,8 +6,9 @@ namespace BlogBuild.Tests.Pages
 
     public class BasePage
     {
+        
 
-            protected string url = "http://localhost:60634/";
+            protected string url =@"http://localhost:60634";
         private IWebDriver driver;
         private WebDriverWait wait;
 

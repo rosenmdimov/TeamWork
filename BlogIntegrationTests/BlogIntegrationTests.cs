@@ -1,19 +1,14 @@
 ﻿using BlogBuild.Tests.Pages.AccountPage;
 using BlogBuild.Tests.Pages.CreatePostPage;
 using BlogBuild.Tests.Pages.LoginPage;
-using NUnit.Framework;
-using NUnit.Framework.Constraints;
-using OpenQA.Selenium;
-using OpenQA.Selenium.Chrome;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Tests
 
 {
+    using NUnit.Framework;
+
+    using OpenQA.Selenium;
+    using OpenQA.Selenium.Chrome;
 
     [TestFixture]
     public class BlogIntegrationTests

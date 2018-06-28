@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\BlogUITests"
+    "\\Blog",
+    "\\BlogUITests\\Pages\\LoginPage\\LoginPageTests",
+    "\\BlogUnitTests\\Properties"
   ],
+  "SelectedNode": "\\Blog\\Blog.csproj",
   "PreviewInSolutionExplorer": false
 }

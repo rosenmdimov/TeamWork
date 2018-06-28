@@ -25,7 +25,6 @@ D:\ROSSEN\QA\C#\TeamWork\BlogUnitTests\bin\Debug\TestStack.Seleno.pdb
 D:\ROSSEN\QA\C#\TeamWork\BlogUnitTests\bin\Debug\TestStack.Seleno.xml
 D:\ROSSEN\QA\C#\TeamWork\BlogUnitTests\bin\Debug\WebDriver.xml
 D:\ROSSEN\QA\C#\TeamWork\BlogUnitTests\bin\Debug\WebDriver.Support.xml
-D:\ROSSEN\QA\C#\TeamWork\BlogUnitTests\obj\Debug\BlogUnitTests.csprojResolveAssemblyReference.cache
 D:\ROSSEN\QA\C#\TeamWork\BlogUnitTests\obj\Debug\BlogUnitTests.dll
 D:\ROSSEN\QA\C#\TeamWork\BlogUnitTests\obj\Debug\BlogUnitTests.pdb
 D:\ROSSEN\QA\C#\TeamWork\BlogUnitTests\bin\Debug\Gherkin.dll
@@ -80,3 +79,14 @@ D:\ROSSEN\QA\C#\HomeWork\BlogHomeWork\BlogUnitTests\bin\Debug\WebDriver.Support.
 D:\ROSSEN\QA\C#\HomeWork\BlogHomeWork\BlogUnitTests\obj\Debug\BlogUnitTests.csprojResolveAssemblyReference.cache
 D:\ROSSEN\QA\C#\HomeWork\BlogHomeWork\BlogUnitTests\obj\Debug\BlogUnitTests.dll
 D:\ROSSEN\QA\C#\HomeWork\BlogHomeWork\BlogUnitTests\obj\Debug\BlogUnitTests.pdb
+D:\ROSSEN\QA\C#\TeamWork\BlogUnitTests\obj\Debug\BlogUnitTests.csprojAssemblyReference.cache
+D:\ROSSEN\QA\C#\TeamWork\BlogUnitTests\obj\Debug\BlogUnitTests.csproj.CoreCompileInputs.cache
+D:\ROSSEN\QA\C#\TeamWork\BlogUnitTests\obj\Debug\BlogUnitTests.csproj.CopyComplete
+D:\ROSSEN\QA\C#\TeamWork\BlogUnitTests\bin\Debug\NUnit3.TestAdapter.dll
+D:\ROSSEN\QA\C#\TeamWork\BlogUnitTests\bin\Debug\NUnit3.TestAdapter.pdb
+D:\ROSSEN\QA\C#\TeamWork\BlogUnitTests\bin\Debug\nunit.engine.dll
+D:\ROSSEN\QA\C#\TeamWork\BlogUnitTests\bin\Debug\nunit.engine.api.dll
+D:\ROSSEN\QA\C#\TeamWork\BlogUnitTests\bin\Debug\Mono.Cecil.dll
+D:\ROSSEN\QA\C#\TeamWork\BlogUnitTests\bin\Debug\System.ValueTuple.dll
+D:\ROSSEN\QA\C#\TeamWork\BlogUnitTests\bin\Debug\nunit.framework.pdb
+D:\ROSSEN\QA\C#\TeamWork\BlogUnitTests\bin\Debug\System.ValueTuple.xml
