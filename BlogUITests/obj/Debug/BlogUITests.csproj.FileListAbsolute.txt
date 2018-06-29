@@ -89,3 +89,4 @@ D:\ROSSEN\QA\C#\TeamWork\BlogUITests\obj\Debug\BlogUITests.csproj.CopyComplete
 D:\ROSSEN\QA\C#\TeamWork\BlogUITests\obj\Debug\BlogUITests.dll
 D:\ROSSEN\QA\C#\TeamWork\BlogUITests\obj\Debug\BlogUITests.pdb
 D:\ROSSEN\QA\C#\TeamWork\BlogUITests\obj\Debug\BlogUITests.csprojAssemblyReference.cache
+D:\ROSSEN\QA\C#\TeamWork\BlogUITests\bin\Debug\System.ValueTuple.xml
